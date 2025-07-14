@@ -5,13 +5,15 @@
   <meta charset="UTF-8">
   <meta property="og:title" content="Ibrahim First Html CV Done in 2025">
   <meta property="og:type" content="website">
-<meta property="og:url" content="https://yourwebsite.com/cv.html">
-<meta property="og:image" content="https://yourwebsite.com/og-image.jpg">
-<meta property="og:description" content="Junior Frontend Developer CV of Ibrahim Keita">
+  <meta property="og:url" content="https://yourwebsite.com/cv.html">
+  <meta property="og:image" content="https://yourwebsite.com/og-image.jpg">
+  <meta property="og:description" content="Junior Frontend Developer CV of Ibrahim Keita">
   <meta name="title" content="My Single CV Page - Ibrahim First Html CV Done in 2025">
   <meta name="description" content="My First single page cv , made using html , with the goal to become better at coding ">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>My Single CV Page - Ibrahim First Html CV Done in 2025</title>
+  <title>
+    My Single CV Page - Ibrahim First Html CV Done in 2025
+  </title>
 </head>
 <body>
   <header>
